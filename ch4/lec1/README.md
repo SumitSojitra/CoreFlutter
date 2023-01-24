@@ -16,7 +16,8 @@ output: [1 hello, 2 hello, 3 hello]
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://user-images.githubusercontent.com/114163699/214275398-885cb05f-a183-4dbe-b7fa-0c6b1e07bb96.png)
+
 
 ***
 ***
@@ -34,7 +35,8 @@ After that print all states using any type of loop.
 
 **<u>Output :</u>**
 
-![image not loaded]()
+![image not loaded](https://user-images.githubusercontent.com/114163699/214275603-080b30a0-35d0-4e51-83fb-991d8014f3b3.png)
+
 
 ***
 ***

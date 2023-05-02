@@ -36,9 +36,10 @@ class _homepageState extends State<homepage> {
           min++;
           sec = 0;
         }
-        secAngel = (pi / 30) * DateTime.now().second;
-        minAngel = (pi / 30) * DateTime.now().minute;
-        hourAngel = (pi / 6 * DateTime.now().hour);
+        secAngel = (pi / 30) * sec;
+        ;
+        minAngel = (pi / 30) * min;
+        hourAngel = (pi / 6 * hour);
 
         start();
       });
@@ -119,7 +120,7 @@ class _homepageState extends State<homepage> {
                 width: 2,
                 color: Colors.red,
               ),
-              alignment: Alignment(0, -0.2),
+              alignment: Alignment(0, -0.20),
             ),
           ),
           //minute
